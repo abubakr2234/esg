@@ -1,0 +1,152 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+.sec-1-our-philosophy {
+  height: 279px;
+  width: 1140px;
+  padding-bottom: 90px;
+}
+.header-our-philosophy {
+  position: relative;
+  color: #1B3E6F;
+  font-family: Lato ;
+  font-size: 37px;
+  letter-spacing: 0.5px;
+  line-height: 37px;
+  text-align: center;
+  padding-bottom: 60px;
+  left: 276px;
+  right: 336px;
+  
+  
+}
+.body-south-suez-recognise {
+  height: 182px;
+  width: 1140px;
+  color: #808184;
+  font-family: Lato;
+  font-size: 19px;
+  letter-spacing: 0.1px;
+  line-height: 26px;
+  text-align: center;
+  padding-left: 270px;
+  padding-right: 270px;
+  padding-bottom: 90px;
+}
+
+
+
+.bg-light-blue {
+  height: 723px;
+  width: 1680px;
+  background-color: #9DACC1;
+}
+
+.header-commitment-to-the-su {
+  position: relative;
+  color: #FFFFFF;
+  font-family: Lato;
+  font-size: 37px;
+  letter-spacing: 0.5px;
+  line-height: 37px;
+  left: 300px;
+  right: 300px;
+  padding-top: 90px;
+}
+
+.cop-we-work-towards-the {
+  position: relative;
+  height: 78px;
+  width: 1140px;
+  color: #FFFFFF;
+  font-family: Lato;
+  font-size: 19px;
+  letter-spacing: 0.1px;
+  line-height: 26px;
+  text-align: center;
+  left: 269px;
+  right: 271px;
+  padding-top: 60px;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  grid-gap: 20px;
+  padding-top: 60px;
+  left: 300px;
+  right: 300px;
+}
+.grid-item {
+  
+  column-gap: 10px;
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+}
+.grid-container-2 {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  grid-gap: 20px;
+  padding-top: 10px;
+  left: 300px;
+  right: 300px;
+}
+button {
+
+  box-sizing: border-box;
+  height: 48px;
+  width: 220px;
+  border: 2px solid #FFFFFF;
+
+}
+
+.sec-3-employment-growth{
+  padding-top: 90px;
+}
+
+.header-employment-growth {
+  position: relative;
+  height: 37px;
+  width: 438px;
+  color: #1B3E6F;
+  font-family: Lato;
+  font-size: 37px;
+  letter-spacing: 0.5px;
+  line-height: 37px;
+  left: 622px;
+  right: 620px;
+}
+
+.copy-there-is-a-strong-co {
+  position: relative;
+  height: 104px;
+  width: 1140px;
+  color: #808184;
+  font-family: Lato;
+  font-size: 19px;
+  font-weight: 400;
+  letter-spacing: 0.1px;
+  line-height: 26px;
+  text-align: center; 
+  left: 272px;
+  right: 268px;
+  padding-top: 60px;
+}
+.copy-there-is-a-strong-co-2 {
+  padding-top: 10px;
+  position: relative;
+  height: 104px;
+  width: 1140px;
+  color: #808184;
+  font-family: Lato;
+  font-size: 19px;
+  font-weight: 900;
+  letter-spacing: 0.1px;
+  line-height: 26px;
+  text-align: center; 
+  left: 10px;
+  right: 288px;
+  padding-top: 60px;
+}
