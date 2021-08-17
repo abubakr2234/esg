@@ -1,0 +1,50 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+.sec-5-gender-equality {
+    height: 770px;
+    width: 1680px;
+  }
+  .hedaer-gender-equality-di {
+    padding-left: 552px;  
+    height: 37px;
+    width: 576px;
+    color: #1B3E6F;
+    font-family: Lato;
+    font-size: 37px;
+    letter-spacing: 0.5px;
+    line-height: 37px;
+  }
+  .body-women-are-under-repr {
+    padding-left: 270px;
+    padding-top: 60px;  
+    height: 156px;
+    width: 1140px;
+    color: #808184;
+    font-family: Lato;
+    font-size: 19px;
+    font-weight: 400;
+    letter-spacing: 0.1px;
+    line-height: 26px;
+  }
+  .left-section-infographic {
+    height: 254px;
+    width: 493px;
+  }
+  .header-section-we-are-complian {
+      padding-top: 60px;
+    height: 48px;
+    width: 493px;
+    color: #1B3E6F;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 900;
+    letter-spacing: 0.56px;
+    line-height: 48px;
+    text-align: center;
+  }
+  .right-section {
+    height: 167px;
+    width: 364.23px;
+  }  

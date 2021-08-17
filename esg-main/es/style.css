@@ -1,0 +1,229 @@
+.body {
+    font-family: 'Lato', sans-serif;
+}
+
+.bg-blue {
+    height: 875px;
+    width: 1680px;
+    background-color: #1B3E6F;
+  }
+  .header-our-esg-fund-rating {
+      padding-left: 628px;
+    height: 37px;
+    width: 425px;
+    color: #FFFFFF;
+    font-family: Lato;
+    font-size: 37px;
+    letter-spacing: 0.5px;
+    line-height: 37px;
+  }
+  .body-we-have-integrated-a {
+    padding-top: 60px;
+    padding-left: 270px;
+    height: 104px;
+    width: 1140px;
+    color: #FFFFFF;
+    font-family: Lato;
+    font-size: 19px;
+    font-weight: 400;
+    letter-spacing: 0.1px;
+    line-height: 26px;
+    text-align: center;
+  }
+  .grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-row-gap: 50px;
+    grid-column-gap: 10px;
+    
+    padding: 10px;
+  }
+  
+  .grid-container > div {
+    
+    text-align: center;
+    padding: 20px 0;
+    font-size: 30px;
+  }
+  .one {
+    height: 320px;
+    width: 338.3px;
+  }
+  .one-one {
+    height: 320px;
+    width: 182px;
+    color: #D6A54B;
+    font-family: Lato;
+    font-size: 200px;
+    font-weight: 500;
+    letter-spacing: 1.05px;
+    line-height: 320px;
+  }
+  .portfolio-constituen {
+    height: 20px;
+    width: 218px;
+    color: #D6A54B;
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 900;
+    letter-spacing: 0.1px;
+    line-height: 20px;
+  }
+  .are-the-fund-manager {
+    height: 54px;
+    width: 218px;
+    color: #FFFFFF;
+    font-family: Lato;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 18px;
+  }
+  .two {
+    height: 320px;
+    width: 338.3px;
+  }
+  .two-2 {
+    height: 320px;
+    width: 182px;
+    color: #D6A54B;
+    font-family: Lato;
+    font-size: 200px;
+    font-weight: 500;
+    letter-spacing: 1.05px;
+    line-height: 320px;
+  }
+  .lpa-provision {
+    height: 20px;
+    width: 218px;
+    color: #D6A54B;
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 900;
+    letter-spacing: 0.1px;
+    line-height: 20px;
+  }
+  .do-the-fund-formatio {
+    height: 90px;
+    width: 218px;
+    color: #FFFFFF;
+    font-family: Lato;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 18px;
+  }
+  .three {
+    height: 320px;
+    width: 182px;
+    color: #D6A54B;
+    font-family: Lato;
+    font-size: 200px;
+    font-weight: 500;
+    letter-spacing: 1.05px;
+    line-height: 320px;
+  }
+  .economic-sustainabil {
+    height: 20px;
+    width: 221px;
+    color: #D6A54B;
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 900;
+    letter-spacing: 0.1px;
+    line-height: 20px;
+  }
+  .are-the-funds-portf {
+    height: 54px;
+    width: 218px;
+    color: #FFFFFF;
+    font-family: Lato;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 18px;
+  }
+  .four {
+    height: 320px;
+    width: 182px;
+    color: #D6A54B;
+    font-family: Lato;
+    font-size: 200px;
+    font-weight: 500;
+    letter-spacing: 1.05px;
+    line-height: 320px;
+  }
+  .responsible-investme {
+    height: 40px;
+    width: 218px;
+    color: #D6A54B;
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 900;
+    letter-spacing: 0.1px;
+    line-height: 20px;
+  }
+  .does-the-fund-subscr {
+    height: 54px;
+    width: 218px;
+    color: #FFFFFF;
+    font-family: Lato;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 18px;
+  }
+  .five {
+    height: 245px;
+    width: 182px;
+    color: #D6A54B;
+    font-family: Lato;
+    font-size: 200px;
+    font-weight: 500;
+    letter-spacing: 1.05px;
+    line-height: 320px;
+  }
+  .resources {
+    height: 20px;
+    width: 218px;
+    color: #D6A54B;
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 900;
+    letter-spacing: 0.1px;
+    line-height: 20px;
+  }
+  .does-the-fund-manage {
+    height: 54px;
+    width: 218px;
+    color: #FFFFFF;
+    font-family: Lato;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 18px;
+  }
+  .six {
+    height: 320px;
+    width: 182px;
+    color: #D6A54B;
+    font-family: Lato;
+    font-size: 200px;
+    font-weight: 500;
+    letter-spacing: 1.05px;
+    line-height: 320px;
+  }
+  .charity {
+    height: 20px;
+    width: 218px;
+    color: #D6A54B;
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 900;
+    letter-spacing: 0.1px;
+    line-height: 20px;
+  }
+  .does-the-fund-manage {
+    height: 54px;
+    width: 218px;
+    color: #FFFFFF;
+    font-family: Lato;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 18px;
+  }

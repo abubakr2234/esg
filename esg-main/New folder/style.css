@@ -1,0 +1,68 @@
+.sec-9-signatory-of-unpri {
+    height: 864px;
+    width: 1141px;
+  }
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto ;
+    grid-row-gap: 10px;
+    grid-column-gap: 10px;
+    
+    padding: 10px;
+  }
+  
+  .grid-container > div {
+    background-color: rgba(255, 255, 255, 0.8);
+    text-align: center;
+    padding: 20px 0;
+    font-size: 30px;
+  }
+  .img-1-signatory-of-unpri {
+    height: 380px;
+    width: 461px;
+  }
+  .header-signatory-of-unpri {
+    height: 37px;
+    width: 557px;
+    color: #1B3E6F;
+    font-family: Lato;
+    font-size: 37px;
+    letter-spacing: 0.5px;
+    line-height: 37px;
+  }
+  .body-the-principles-for-r {
+    height: 336px;
+    width: 619px;
+    color: #808184;
+    font-family: Lato;
+    font-size: 19px;
+    letter-spacing: 0.1px;
+    line-height: 28px;
+  }
+  .header-ifc-sustainability-f {
+    height: 37px;
+    width: 614px;
+    color: #1B3E6F;
+    font-family: Lato;
+    font-size: 37px;
+    letter-spacing: 0.5px;
+    line-height: 37px;
+    text-align: right;
+  }
+  .body-south-suez-requires {
+      padding-top: 50px;
+    height: 336px;
+    width: 620px;
+    color: #808184;
+    font-family: Lato;
+    font-size: 19px;
+    letter-spacing: 0.1px;
+    line-height: 28px;
+    text-align: right;
+  }
+  .imag-2-ifc-suatatinability-fra {
+    height: 380px;
+    width: 461px;
+  }
+  
