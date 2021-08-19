@@ -3,11 +3,12 @@ body{
 }
 
 .sec-1-our-philosophy {
-  height: 279px;
+  height: 300px;
   width: 1140px;
   padding-bottom: 90px;
 }
 .header-our-philosophy {
+  padding-top: 50px;
   position: relative;
   color: #1B3E6F;
   font-family: Lato ;
@@ -34,6 +35,234 @@ body{
   padding-right: 270px;
   padding-bottom: 90px;
 }
+
+.bg-blue {
+  height: 875px;
+  width: 1680px;
+  background-color: #1B3E6F;
+}
+.header-our-esg-fund-rating {
+    padding-left: 628px;
+  height: 37px;
+  width: 425px;
+  color: #FFFFFF;
+  font-family: Lato;
+  font-size: 37px;
+  letter-spacing: 0.5px;
+  line-height: 37px;
+}
+.body-we-have-integrated-a {
+  padding-top: 60px;
+  padding-left: 270px;
+  height: 104px;
+  width: 1140px;
+  color: #FFFFFF;
+  font-family: Lato;
+  font-size: 19px;
+  font-weight: 400;
+  letter-spacing: 0.1px;
+  line-height: 26px;
+  text-align: center;
+}
+.grid-container-66 {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-row-gap: 50px;
+  grid-column-gap: 10px;
+  
+  padding: 10px;
+}
+
+.grid-container > div {
+  
+  text-align: center;
+  padding: 20px 0;
+  font-size: 30px;
+}
+.one {
+  height: 320px;
+  width: 338.3px;
+}
+.one-one {
+  height: 320px;
+  width: 182px;
+  color: #D6A54B;
+  font-family: Lato;
+  font-size: 200px;
+  font-weight: 500;
+  letter-spacing: 1.05px;
+  line-height: 320px;
+}
+.portfolio-constituen {
+  height: 20px;
+  width: 218px;
+  color: #D6A54B;
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: 900;
+  letter-spacing: 0.1px;
+  line-height: 20px;
+}
+.are-the-fund-manager {
+  height: 54px;
+  width: 218px;
+  color: #FFFFFF;
+  font-family: Lato;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+.two {
+  height: 320px;
+  width: 338.3px;
+}
+.two-2 {
+  height: 320px;
+  width: 182px;
+  color: #D6A54B;
+  font-family: Lato;
+  font-size: 200px;
+  font-weight: 500;
+  letter-spacing: 1.05px;
+  line-height: 320px;
+}
+.lpa-provision {
+  height: 20px;
+  width: 218px;
+  color: #D6A54B;
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: 900;
+  letter-spacing: 0.1px;
+  line-height: 20px;
+}
+.do-the-fund-formatio {
+  height: 90px;
+  width: 218px;
+  color: #FFFFFF;
+  font-family: Lato;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+.three {
+  height: 320px;
+  width: 182px;
+  color: #D6A54B;
+  font-family: Lato;
+  font-size: 200px;
+  font-weight: 500;
+  letter-spacing: 1.05px;
+  line-height: 320px;
+}
+.economic-sustainabil {
+  height: 20px;
+  width: 221px;
+  color: #D6A54B;
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: 900;
+  letter-spacing: 0.1px;
+  line-height: 20px;
+}
+.are-the-funds-portf {
+  height: 54px;
+  width: 218px;
+  color: #FFFFFF;
+  font-family: Lato;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+.four {
+  height: 320px;
+  width: 182px;
+  color: #D6A54B;
+  font-family: Lato;
+  font-size: 200px;
+  font-weight: 500;
+  letter-spacing: 1.05px;
+  line-height: 320px;
+}
+.responsible-investme {
+  height: 40px;
+  width: 218px;
+  color: #D6A54B;
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: 900;
+  letter-spacing: 0.1px;
+  line-height: 20px;
+}
+.does-the-fund-subscr {
+  height: 54px;
+  width: 218px;
+  color: #FFFFFF;
+  font-family: Lato;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+.five {
+  height: 245px;
+  width: 182px;
+  color: #D6A54B;
+  font-family: Lato;
+  font-size: 200px;
+  font-weight: 500;
+  letter-spacing: 1.05px;
+  line-height: 320px;
+}
+.resources {
+  height: 20px;
+  width: 218px;
+  color: #D6A54B;
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: 900;
+  letter-spacing: 0.1px;
+  line-height: 20px;
+}
+.does-the-fund-manage {
+  height: 54px;
+  width: 218px;
+  color: #FFFFFF;
+  font-family: Lato;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+.six {
+  height: 320px;
+  width: 182px;
+  color: #D6A54B;
+  font-family: Lato;
+  font-size: 200px;
+  font-weight: 500;
+  letter-spacing: 1.05px;
+  line-height: 320px;
+}
+.charity {
+  height: 20px;
+  width: 218px;
+  color: #D6A54B;
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: 900;
+  letter-spacing: 0.1px;
+  line-height: 20px;
+}
+.does-the-fund-manage {
+  height: 54px;
+  width: 218px;
+  color: #FFFFFF;
+  font-family: Lato;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+
 
 
 
@@ -99,15 +328,16 @@ button {
   height: 48px;
   width: 220px;
   border: 2px solid #FFFFFF;
-  background-color: #9DACC1;
 
 }
 
 .sec-3-employment-growth{
-  padding-top: 90px;
+  height: 649px;
+  width: 1142px;
 }
 
 .header-employment-growth {
+  padding-top: 90px;
   position: relative;
   height: 37px;
   width: 438px;
@@ -150,52 +380,14 @@ button {
   left: 10px;
   right: 288px;
   padding-top: 60px;
-  padding-bottom: 60px;
 }
-.grid-container-4 {
+.bg-navy-blue {
+  height: 721px;
+  width: 1680px;
+  background-color: #1B3E6F;
+}
 
-  display: grid;
-  grid-template-columns: auto auto auto;
-  
-  padding-top: 60px;
-}
-.grid-item-4 {
-  background-color: rgba(255, 255, 255, 0.8);
-  
-  padding: 20px;
-  font-size: 30px;
-  text-align: center;
-}
-.section-header-136-123-jobs-at {
-  height: 121px;
-  width: 328px;
-  color: #1B3E6F;
-  font-family: Lato;
-  font-size: 26px;
-  letter-spacing: 1.88px;
-  line-height: 40px;
-  text-align: center;
-}
-.section-header-27-381-new-jobs {
-  height: 121px;
-  width: 328px;
-  color: #2D8886;
-  font-family: Lato;
-  font-size: 26px;
-  letter-spacing: 1.88px;
-  line-height: 40px;
-  text-align: center;
-}
-.section-header-20-job-growth {
-  height: 121px;
-  width: 328px;
-  color: #D6A54B;
-  font-family: Lato;
-  font-size: 26px;
-  letter-spacing: 1.88px;
-  line-height: 40px;
-  text-align: center;
-}
+
 .bg-navy-blue {
   padding-top: 60px;
   height: 721px;
@@ -225,22 +417,13 @@ button {
   letter-spacing: 0.1px;
   line-height: 26px;
 }
-.body-sound-inclusive-and-2 {
-  padding-left: 276px;
-  font-weight: 350;
-  width: 653px;
-  color: #FFFFFF;
-  font-family: Lato;
-  font-size: 19px;
-  letter-spacing: 0.1px;
-  line-height: 26px;
-}
+
 .sec-left-south-suez-has {
   height: 176px;
   width: 599px;
 }
 .section-header-south-suez-has {
-  padding-top: 60px;
+  padding-top: 50px;
   padding-left: 276px;
   height: 32px;
   width: 183px;
@@ -251,9 +434,10 @@ button {
   line-height: 32px;
 }
 .flex-container {
-  padding-left: 276px;
+  padding-left: 220px;
   display: flex;
   flex-direction: row;
+  gap: 170px;
   
 }
 
@@ -274,6 +458,7 @@ button {
   line-height: 74px;
 }
 .invested-in-consumer {
+  text-align: left;
   height: 44px;
   width: 292px;
   color: #FFFFFF;
@@ -292,6 +477,7 @@ button {
   line-height: 74px;
 }
 .committed-across-two {
+  text-align: left;
   height: 44px;
   width: 236px;
   color: #FFFFFF;
@@ -300,15 +486,17 @@ button {
   letter-spacing: 0.5px;
   line-height: 22px;
 }
+
+
+
 .sec-5-gender-equality {
   height: 770px;
   width: 1680px;
+  background-color: #f1f1f1;
 }
 .hedaer-gender-equality-di {
-  padding-top: 90px;
-  padding-left: 552px;
-  padding-right: 552px;
-  padding-bottom: 60px;
+  padding-top: 60px;
+  padding-left: 552px;  
   height: 37px;
   width: 576px;
   color: #1B3E6F;
@@ -319,22 +507,155 @@ button {
 }
 .body-women-are-under-repr {
   padding-left: 270px;
+  padding-top: 60px;  
   height: 156px;
   width: 1140px;
   color: #808184;
   font-family: Lato;
   font-size: 19px;
-  font-weight: 450;
+  font-weight: 400;
   letter-spacing: 0.1px;
   line-height: 26px;
 }
+.left-section-infographic {
+  padding-left: 270px;
+  height: 254px;
+  width: 493px;
+}
+.grid-container-45 {
+  display: grid;
+  grid-template-columns: auto auto ;
+  grid-row-gap: 50px;
+  grid-column-gap: 10px;
+  
+  padding: 10px;
+}
+
+.grid-container-45 > div {
+  
+  text-align: center;
+  padding: 20px 0;
+  font-size: 30px;
+}
+.sixty {
+  height: 34px;
+  width: 63px;
+  color: #2D8886;
+  font-family: Lato;
+  font-size: 30px;
+  font-weight: bold;
+  letter-spacing: 0.94px;
+  line-height: 34px;
+}
+.forty-five {
+  height: 34px;
+  width: 63px;
+  color: #D6A54B;
+  font-family: Lato;
+  font-size: 30px;
+  font-weight: bold;
+  letter-spacing: 0.94px;
+  line-height: 34px;
+}
+.senior-staff {
+  height: 23px;
+  width: 86px;
+  color: #2D8886;
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+  line-height: 34px;
+}
+.all-staff {
+  height: 23px;
+  width: 58px;
+  color: #D6A54B;
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+  line-height: 34px;
+}
+.header-section-we-are-complian {
+    padding-top: 60px;
+  height: 48px;
+  width: 493px;
+  color: #1B3E6F;
+  font-family: Lato;
+  font-size: 18px;
+  font-weight: 900;
+  letter-spacing: 0.56px;
+  line-height: 48px;
+  text-align: center;
+}
+.forty {
+  height: 34px;
+  width: 71px;
+  color: #2D8886;
+  font-family: Lato;
+  font-size: 30px;
+  font-weight: bold;
+  letter-spacing: 0.94px;
+  line-height: 34px;
+}
+.senior-staff-1 {
+  height: 23px;
+  width: 87px;
+  color: #2D8886;
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+  line-height: 34px;
+}
+.fifty {
+  height: 34px;
+  width: 63px;
+  color: #D6A54B;
+  font-family: Lato;
+  font-size: 30px;
+  font-weight: bold;
+  letter-spacing: 0.94px;
+  line-height: 34px;
+}
+.all-staff-1 {
+  height: 23px;
+  width: 58px;
+  color: #D6A54B;
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+  line-height: 34px;
+}
+.right-section {
+  height: 167px;
+  width: 364.23px;
+  float:right;
+  padding-right: 270px;
+}  
+.copy-2-x-is-the-dfi-led-i {
+  height: 66px;
+  width: 362px;
+  color: #808184;
+  font-family: Lato;
+  font-size: 14px;
+  font-style: italic;
+  font-weight: 300;
+  letter-spacing: 0.07px;
+  line-height: 22px;
+}
+
+
+
 .sec-7-renewable {
-  height: 709.45px;
+  height: 909.45px;
   width: 1194.26px;
 }
 .header-renewable-energy-c {
   padding-left: 460px;
-  padding-bottom: 60px;
+  padding-top: 70px;
   height: 37px;
   width: 752px;
   color: #1B3E6F;
@@ -350,7 +671,7 @@ button {
   color: #808184;
   font-family: Lato;
   font-size: 19px;
-  font-weight: 500;
+  font-weight: 450;
   letter-spacing: 0.1px;
   line-height: 26px;
   text-align: center;
@@ -369,6 +690,7 @@ button {
   text-align: center;
 }
 .accelerate-an-ene {
+  text-align: left;
   padding-top: 41px;
   height: 96px;
   width: 500px;
@@ -380,6 +702,7 @@ button {
   font-weight: 5-0;
 }
 .minimize-africas {
+  text-align: left;
   padding-top: 58px;
   height: 96px;
   width: 556px;
@@ -390,95 +713,128 @@ button {
   line-height: 32px;
   font-weight: 500;
 }
-.grid-container-7 {
+
+
+
+.sec-8-speak-to-local {
+  height: 309px;
+  width: 1681px;
+  background-color: #236AAA;
+  color: #ffffff;
+}
+.looking {
+  font-size: 17px;
+  text-align: center;
+  padding-top: 100px;
+}
+.look-2 {
+  padding-left: 660px;
+  padding-top: 30px;
+}
+.button {
+
+background-color: #236AAA;;
+color: black;
+border: 3px solid #ffffff;
+padding: 25px 160px; 
+padding-left: 200px;
+color: #ffffff;
+font-size: 15px;
+}
+
+
+.sec-9-signatory-of-unpri {
+  height: 964px;
+  width: 1681px;
+}
+
+.grid-container-8 {
   display: grid;
   grid-template-columns: auto auto ;
-  grid-column-gap: 112px;
-  grid-row-gap: 43px;
+  grid-row-gap: 10px;
+  grid-column-gap: 5px;
+  
   padding: 10px;
 }
-.grid-item-7 {
-  
-  padding: 20px;
-  font-size: 30px;
+
+.grid-container-8 > div {
+  background-color: rgba(255, 255, 255, 0.8);
   text-align: center;
-  padding-left: 200px;
+  padding: 20px 0;
+  font-size: 30px;
 }
-.designs-distributes {
-  height: 78px;
-  width: 321px;
-  color: #808184;
-  font-family: Lato;
-  font-size: 19px;
-  letter-spacing: 0.1px;
-  line-height: 26px;
-}
-.leading-provider-of {
-  height: 52px;
-  width: 331px;
-  color: #808184;
-  font-family: Lato;
-  font-size: 19px;
-  letter-spacing: 0.1px;
-  line-height: 26px;
-}
-.solar-home-solutions {
-  height: 78px;
-  width: 305px;
-  color: #808184;
-  font-family: Lato;
-  font-size: 19px;
-  letter-spacing: 0.1px;
-  line-height: 26px;
-}
-.develops-and-breeds {
-  height: 78px;
-  width: 341px;
-  color: #808184;
-  font-family: Lato;
-  font-size: 19px;
-  letter-spacing: 0.1px;
-  line-height: 26px;
-}
-.leading-african-comm {
-  height: 52px;
-  width: 338px;
-  color: #808184;
-  font-family: Lato;
-  font-size: 19px;
-  letter-spacing: 0.1px;
-  line-height: 26px;
-}
-
-.block-1 {
-  float: left;
-  padding-right: 20px;
-}
-.block-2 {
-  float: left;
-}
-.block-3 {
-  float: left;
-}
-.block-4 {
-  float: left;
-}
-.block-5 {
-  float: left;
-}
-.sec-9-signatory-of-unpri {
-  height: 864px;
-  width: 1141px;
-}
-.container2 {
-  padding-top: 90px;
-
+.img-1-signatory-of-unpri {
+  padding-left: 270px;
+  height: 380px;
+  width: 461px;
 }
 .header-signatory-of-unpri {
-  float: left;
+  height: 37px;
+  width: 557px;
   color: #1B3E6F;
   font-family: Lato;
   font-size: 37px;
   letter-spacing: 0.5px;
   line-height: 37px;
 }
+.body-the-principles-for-r {
+  padding-right: 290px;
+  height: 336px;
+  width: 619px;
+  color: #808184;
+  font-family: Lato;
+  font-size: 19px;
+  letter-spacing: 0.1px;
+  line-height: 28px;
+}
+.header-ifc-sustainability-f {
+  padding-left: 270px;
+  height: 37px;
+  width: 614px;
+  color: #1B3E6F;
+  font-family: Lato;
+  font-size: 37px;
+  letter-spacing: 0.5px;
+  line-height: 37px;
+  text-align: left;
+}
+.body-south-suez-requires {
+  padding-left: 270px;
+    padding-top: 50px;
+  height: 336px;
+  width: 620px;
+  color: #808184;
+  font-family: Lato;
+  font-size: 19px;
+  letter-spacing: 0.1px;
+  line-height: 28px;
+  text-align: right;
+}
+.imag-2-ifc-suatatinability-fra {
+  padding-left: 40px;
+  height: 380px;
+  width: 461px;
+}
+p.ex1 {
+  margin-top: 25px;
+}
+.img-logo-upri {
+  position: absolute;
+  top: 6020px;
+  left: 330px;
+  height: 73px;
+  width: 387.67px;
+  
+}
+.img-logo-ifc {
+  position: absolute;
+  left: 1000px;
+  top: 6460px;
+  height: 73.13px;
+  width: 390px;
+  
+}
+
+
+
+
