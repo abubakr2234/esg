@@ -3,11 +3,12 @@ body{
 }
 
 .sec-1-our-philosophy {
-  height: 279px;
+  height: 300px;
   width: 1140px;
   padding-bottom: 90px;
 }
 .header-our-philosophy {
+  padding-top: 50px;
   position: relative;
   color: #1B3E6F;
   font-family: Lato ;
@@ -34,6 +35,289 @@ body{
   padding-right: 270px;
   padding-bottom: 90px;
 }
+
+.bg-blue {
+  height: 875px;
+  width: 1680px;
+  background-color: #1B3E6F;
+}
+.header-our-esg-fund-rating {
+  padding-top: 90px;
+    padding-left: 628px;
+  height: 37px;
+  width: 425px;
+  color: #FFFFFF;
+  font-family: Lato;
+  font-size: 37px;
+  letter-spacing: 0.5px;
+  line-height: 37px;
+}
+.body-we-have-integrated-a {
+  padding-top: 60px;
+  padding-left: 270px;
+  height: 104px;
+  width: 1140px;
+  color: #FFFFFF;
+  font-family: Lato;
+  font-size: 19px;
+  font-weight: 400;
+  letter-spacing: 0.1px;
+  line-height: 26px;
+  text-align: center;
+}
+.grid-container-66 {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-row-gap: 50px;
+  grid-column-gap: 10px;
+  
+  padding: 10px;
+}
+
+.grid-container > div {
+  
+  text-align: center;
+  padding: 20px 0;
+  font-size: 30px;
+}
+.one {
+  
+  height: 320px;
+  width: 338.3px;
+}
+.one-one {
+  position: absolute;
+  left: 270px;
+  
+  height: 320px;
+  width: 182px;
+  color: #D6A54B;
+  font-family: Lato;
+  font-size: 200px;
+  font-weight: 500;
+  letter-spacing: 1.05px;
+  line-height: 320px;
+}
+.portfolio-constituen {
+  position: absolute;
+  top: 1350px;
+  left: 400px;
+  height: 20px;
+  width: 218px;
+  color: #D6A54B;
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: 900;
+  letter-spacing: 0.1px;
+  line-height: 20px;
+}
+.are-the-fund-manager {
+  position: absolute;
+  top: 1400px;
+  left: 400px;
+  height: 54px;
+  width: 218px;
+  color: #FFFFFF;
+  font-family: Lato;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+.two {
+  height: 320px;
+  width: 338.3px;
+}
+.two-2 {
+  position: absolute;
+  left: 670px;
+  height: 320px;
+  width: 182px;
+  color: #D6A54B;
+  font-family: Lato;
+  font-size: 200px;
+  font-weight: 500;
+  letter-spacing: 1.05px;
+  line-height: 320px;
+}
+.lpa-provision {
+  position: absolute;
+  top: 1350px;
+  left: 800px;
+  height: 20px;
+  width: 218px;
+  color: #D6A54B;
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: 900;
+  letter-spacing: 0.1px;
+  line-height: 20px;
+}
+.do-the-fund-formatio {
+  position: absolute;
+  top: 1400px;
+  left: 800px;
+  height: 90px;
+  width: 218px;
+  color: #FFFFFF;
+  font-family: Lato;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+.three {
+  position: absolute;
+  top: 1250px;
+  right: 28px;
+  height: 320px;
+  width: 182px;
+  color: #D6A54B;
+  font-family: Lato;
+  font-size: 200px;
+  font-weight: 500;
+  letter-spacing: 1.05px;
+  line-height: 320px;
+}
+.economic-sustainabil {
+  position: absolute;
+  top: 1350px;
+  left: 1180px;
+  height: 20px;
+  width: 221px;
+  color: #D6A54B;
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: 900;
+  letter-spacing: 0.1px;
+  line-height: 20px;
+}
+.are-the-funds-portf {
+  position: absolute;
+  top: 1400px;
+  left: 1180px;
+  height: 54px;
+  width: 218px;
+  color: #FFFFFF;
+  font-family: Lato;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+.four {
+  position: absolute;
+  top: 1500px;
+  left: 270px;
+  height: 320px;
+  width: 182px;
+  color: #D6A54B;
+  font-family: Lato;
+  font-size: 200px;
+  font-weight: 500;
+  letter-spacing: 1.05px;
+  line-height: 320px;
+}
+.responsible-investme {
+  position: absolute;
+  top: 1610px;
+  left: 400px;
+  height: 40px;
+  width: 218px;
+  color: #D6A54B;
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: 900;
+  letter-spacing: 0.1px;
+  line-height: 20px;
+}
+.does-the-fund-subscr {
+  position: absolute;
+  top: 1660px;
+  left: 400px;
+  height: 54px;
+  width: 218px;
+  color: #FFFFFF;
+  font-family: Lato;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+.five {
+  position: absolute;
+  top: 1500px;
+  left: 670px;
+  height: 245px;
+  width: 182px;
+  color: #D6A54B;
+  font-family: Lato;
+  font-size: 200px;
+  font-weight: 500;
+  letter-spacing: 1.05px;
+  line-height: 320px;
+}
+.resources {
+  position: absolute;
+  top: 1600px;
+  left: 800px;
+  height: 20px;
+  width: 218px;
+  color: #D6A54B;
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: 900;
+  letter-spacing: 0.1px;
+  line-height: 20px;
+}
+.does-the-fund-manage {
+  position: absolute;
+  top: 1647px;
+  left: 800px;
+  height: 54px;
+  width: 218px;
+  color: #FFFFFF;
+  font-family: Lato;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+.six {
+  position: absolute;
+  top: 1500px;
+  right: 28px;
+  height: 320px;
+  width: 182px;
+  color: #D6A54B;
+  font-family: Lato;
+  font-size: 200px;
+  font-weight: 500;
+  letter-spacing: 1.05px;
+  line-height: 320px;
+}
+.charity {
+  position: absolute;
+  top: 1600px;
+  left: 1180px;
+  height: 20px;
+  width: 218px;
+  color: #D6A54B;
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: 900;
+  letter-spacing: 0.1px;
+  line-height: 20px;
+}
+.does-the-fund-manage-2 {
+  position: absolute;
+  top: 1650px;
+  left: 1180px;
+  height: 54px;
+  width: 218px;
+  color: #FFFFFF;
+  font-family: Lato;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+
 
 
 
@@ -74,6 +358,7 @@ body{
   display: grid;
   grid-template-columns: auto auto auto auto;
   grid-gap: 20px;
+  grid-column-gap: 5px;
   padding-top: 60px;
   left: 300px;
   right: 300px;
@@ -85,6 +370,48 @@ body{
   font-size: 30px;
   text-align: center;
 }
+.grid-12 {
+  position: absolute;
+  top: 2171px;
+  left: 270px;
+
+}
+.grid-13 {
+  position: absolute;
+  top: 2171px;
+  left: 560px;
+}
+.grid-14 {
+  position: absolute;
+  top: 2171px;
+  left: 860px;
+}
+.grid-15 {
+  position: absolute;
+  top: 2171px;
+  left: 1160px;
+}
+.grid-12-1 {
+  position: absolute;
+  top: 2431px;
+  left: 290px;
+}
+.grid-13-1 {
+  position: absolute;
+  top: 2431px;
+  left: 580px;
+}
+.grid-14-1 {
+  position: absolute;
+  top: 2431px;
+  left: 880px;
+}
+.grid-15-1 {
+  position: absolute;
+  top: 2424px;
+  left: 1180px;
+}
+
 .grid-container-2 {
   display: grid;
   grid-template-columns: auto auto auto auto;
@@ -94,19 +421,22 @@ body{
   right: 300px;
 }
 button {
-
+  background-color: #9DACC1;
   box-sizing: border-box;
   height: 48px;
   width: 220px;
   border: 2px solid #FFFFFF;
+  color: #FFFFFF;
 
 }
 
 .sec-3-employment-growth{
-  padding-top: 90px;
+  height: 649px;
+  width: 1142px;
 }
 
 .header-employment-growth {
+  padding-top: 90px;
   position: relative;
   height: 37px;
   width: 438px;
@@ -150,3 +480,643 @@ button {
   right: 288px;
   padding-top: 60px;
 }
+.bg-navy-blue {
+  height: 721px;
+  width: 1680px;
+  background-color: #1B3E6F;
+}
+
+
+.bg-navy-blue {
+  padding-top: 60px;
+  height: 721px;
+  width: 1680px;
+  background-color: #1B3E6F;
+}
+.header-financial-inclusion {
+  padding-left: 276px;
+  padding-top: 50px;
+  height: 37px;
+  width: 411px;
+  color: #FFFFFF;
+  font-family: Lato;
+  font-size: 40px;
+  letter-spacing: 0.5px;
+  line-height: 37px;
+}
+.body-sound-inclusive-and {
+  padding-left: 276px;
+  font-weight: 350;
+  padding-top: 60px;
+  height: 208px;
+  width: 653px;
+  color: #FFFFFF;
+  font-family: Lato;
+  font-size: 19px;
+  letter-spacing: 0.1px;
+  line-height: 26px;
+}
+
+.sec-left-south-suez-has {
+  height: 176px;
+  width: 599px;
+}
+.section-header-south-suez-has {
+  padding-top: 30px;
+  padding-left: 276px;
+  height: 32px;
+  width: 183px;
+  color: #D6A54B;
+  font-family: Lato;
+  font-size: 26px;
+  letter-spacing: 0.2px;
+  line-height: 32px;
+}
+.flex-container {
+  padding-left: 220px;
+  display: flex;
+  flex-direction: row;
+  gap: 170px;
+  
+}
+
+.flex-container > div {
+  
+  width: 100px;
+  margin: 50px;
+  text-align: center;
+  line-height: 75px;
+}
+.twenty {
+  height: 74px;
+  width: 145px;
+  color: #D6A54B;
+  font-family: Lato;
+  font-size: 72px;
+  letter-spacing: 0.97px;
+  line-height: 74px;
+}
+.invested-in-consumer {
+  text-align: left;
+  height: 44px;
+  width: 292px;
+  color: #FFFFFF;
+  font-family: Lato;
+  font-size: 16px;
+  letter-spacing: 0.5px;
+  line-height: 22px;
+}
+.fifty-2 {
+  height: 74px;
+  width: 197px;
+  color: #D6A54B;
+  font-family: Lato;
+  font-size: 72px;
+  letter-spacing: 0.97px;
+  line-height: 74px;
+}
+.committed-across-two-2 {
+  text-align: left;
+  height: 44px;
+  width: 236px;
+  color: #FFFFFF;
+  font-family: Lato;
+  font-size: 16px;
+  letter-spacing: 0.5px;
+  line-height: 22px;
+}
+.header-section-our-notable-inv {
+  position: absolute;
+  top: 3411px;
+  left: 1150px;
+  height: 22px;
+  width: 192px;
+  color: #D6A54B;
+  font-family: Lato;
+  font-size: 17px;
+  letter-spacing: 0.13px;
+  line-height: 22px;
+}
+.mask-copy {
+  position: absolute;
+  top: 3455px;
+  left: 1155px;
+  height: 111px;
+  width: 185px;
+  border-radius: 4px;
+  background-color: #FFFFFF;
+  box-shadow: 0 10px 10px 0 rgba(0,0,0,0.06);
+}
+.mask-copy-3 {
+  position: absolute;
+  top: 3597px;
+  left: 1155px;
+  height: 111px;
+  width: 185px;
+  border-radius: 4px;
+  background-color: #FFFFFF;
+  box-shadow: 0 10px 10px 0 rgba(0,0,0,0.06);
+}
+.mask-copy-2 {
+  position: absolute;
+  top: 3739px;
+  left: 1155px;
+  height: 111px;
+  width: 185px;
+  border-radius: 4px;
+  background-color: #FFFFFF;
+  box-shadow: 0 10px 10px 0 rgba(0,0,0,0.06);
+}
+.boabab {
+  position: absolute;
+  top: 20px;
+  left: 30px;
+  height: 61.24px;
+  width: 116px;
+}
+.star-logo {
+  position: absolute;
+  top: 20px;
+  left: 15px;
+  height: 57px;
+  width: 158px;
+}
+.tutuka-logo {
+  position: absolute;
+  top: 40px;
+  left: 15px;
+  height: 37px;
+  width: 153px;
+}
+
+.sec-5-gender-equality {
+  height: 770px;
+  width: 1680px;
+  background-color: #f1f1f1;
+}
+.hedaer-gender-equality-di {
+  padding-top: 60px;
+  padding-left: 552px;  
+  height: 37px;
+  width: 576px;
+  color: #1B3E6F;
+  font-family: Lato;
+  font-size: 37px;
+  letter-spacing: 0.5px;
+  line-height: 37px;
+}
+.body-women-are-under-repr {
+  padding-left: 270px;
+  padding-top: 60px;  
+  height: 156px;
+  width: 1140px;
+  color: #808184;
+  font-family: Lato;
+  font-size: 19px;
+  font-weight: 400;
+  letter-spacing: 0.1px;
+  line-height: 26px;
+}
+.left-section-infographic {
+  padding-left: 270px;
+  height: 254px;
+  width: 493px;
+}
+.grid-container-45 {
+  display: grid;
+  grid-template-columns: auto auto ;
+  grid-row-gap: 50px;
+  grid-column-gap: 10px;
+  
+  padding: 10px;
+}
+
+.grid-container-45 > div {
+  
+  text-align: center;
+  padding: 20px 0;
+  font-size: 30px;
+}
+.sixty {
+  height: 34px;
+  width: 63px;
+  color: #2D8886;
+  font-family: Lato;
+  font-size: 30px;
+  font-weight: bold;
+  letter-spacing: 0.94px;
+  line-height: 34px;
+}
+.forty-five {
+  height: 34px;
+  width: 63px;
+  color: #D6A54B;
+  font-family: Lato;
+  font-size: 30px;
+  font-weight: bold;
+  letter-spacing: 0.94px;
+  line-height: 34px;
+}
+.senior-staff {
+  height: 23px;
+  width: 86px;
+  color: #2D8886;
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+  line-height: 34px;
+}
+.all-staff {
+  height: 23px;
+  width: 58px;
+  color: #D6A54B;
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+  line-height: 34px;
+}
+.header-section-we-are-complian {
+
+    padding-top: 60px;
+  height: 48px;
+  width: 493px;
+  color: #1B3E6F;
+  font-family: Lato;
+  font-size: 18px;
+  font-weight: 900;
+  letter-spacing: 0.56px;
+  line-height: 48px;
+  text-align: center;
+}
+.forty {
+  height: 34px;
+  width: 71px;
+  color: #2D8886;
+  font-family: Lato;
+  font-size: 30px;
+  font-weight: bold;
+  letter-spacing: 0.94px;
+  line-height: 34px;
+}
+.senior-staff-1 {
+  height: 23px;
+  width: 87px;
+  color: #2D8886;
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+  line-height: 34px;
+}
+.fifty {
+  height: 34px;
+  width: 63px;
+  color: #D6A54B;
+  font-family: Lato;
+  font-size: 30px;
+  font-weight: bold;
+  letter-spacing: 0.94px;
+  line-height: 34px;
+}
+.all-staff-1 {
+  height: 23px;
+  width: 58px;
+  color: #D6A54B;
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+  line-height: 34px;
+}
+.right-section {
+  position: absolute;
+  top: 4520px;
+  left: 910px;
+  height: 167px;
+  width: 364.23px;
+  float:right;
+  padding-right: 270px;
+}  
+.copy-2-x-is-the-dfi-led-i {
+  padding-top: 15px;
+  height: 66px;
+  width: 362px;
+  color: #808184;
+  font-family: Lato;
+  font-size: 14px;
+  font-style: italic;
+  font-weight: 300;
+  letter-spacing: 0.07px;
+  line-height: 22px;
+}
+
+
+
+.sec-7-renewable {
+  height: 909.45px;
+  width: 1194.26px;
+}
+.header-renewable-energy-c {
+  padding-left: 460px;
+  padding-top: 70px;
+  height: 37px;
+  width: 752px;
+  color: #1B3E6F;
+  font-family: Lato;
+  font-size: 37px;
+  letter-spacing: 0.5px;
+  line-height: 37px;
+}
+.body-south-suez-invests-i {
+  padding-left: 260px;
+  height: 52px;
+  width: 1140px;
+  color: #808184;
+  font-family: Lato;
+  font-size: 19px;
+  font-weight: 450;
+  letter-spacing: 0.1px;
+  line-height: 26px;
+  text-align: center;
+}
+.grid-container-6 {
+  display: grid;
+  grid-template-columns: auto auto ;
+  grid-column-gap: 112px;
+  padding: 10px;
+  padding-left: 200px;
+}
+.grid-item-6 {
+  
+  padding: 20px;
+
+  text-align: center;
+}
+.accelerate-an-ene {
+  text-align: left;
+  padding-top: 41px;
+  height: 96px;
+  width: 500px;
+  color: #1B3E6F;
+  font-family: Lato;
+  font-size: 24px;
+  letter-spacing: 0.18px;
+  line-height: 32px;
+  font-weight: 5-0;
+}
+.minimize-africas {
+  text-align: left;
+  padding-top: 58px;
+  height: 96px;
+  width: 556px;
+  color: #1B3E6F;
+  font-family: Lato;
+  font-size: 24px;
+  letter-spacing: 0.18px;
+  line-height: 32px;
+  font-weight: 500;
+}
+.block-1 {
+  position: absolute;
+  top: 5220px;
+  left: 430px;
+  height: 78px;
+  width: 515.99px;
+}
+.designs-distributes {
+  height: 78px;
+  width: 321px;
+  color: #808184;
+  font-family: Lato;
+  font-size: 19px;
+  letter-spacing: 0.1px;
+  line-height: 26px;
+}
+.img-logo-zola {
+  position: absolute;
+  top: 5px;
+  right: 590px;
+  height: 69px;
+  width: 127.46px;
+}
+.block-2 {
+  position: absolute;
+  top: 5350px;
+  left: 430px;
+  height: 78px;
+  width: 497.88px;
+}
+.solar-home-solutions {
+  height: 78px;
+  width: 305px;
+  color: #808184;
+  font-family: Lato;
+  font-size: 19px;
+  letter-spacing: 0.1px;
+  line-height: 26px;
+}
+.img-logo-greenlight {
+  position: absolute;
+  top: 1px;
+  right: 560px;
+  height: 40.66px;
+  width: 150.09px;
+}
+.block-3 {
+  position: absolute;
+  top: 5480px;
+  left: 430px;
+  height: 109.6px;
+  width: 558.26px;
+}
+.leading-african-comm {
+  height: 52px;
+  width: 338px;
+  color: #808184;
+  font-family: Lato;
+  font-size: 19px;
+  letter-spacing: 0.1px;
+  line-height: 26px;
+}
+.img-logo-starsight {
+  position: absolute;
+
+  right: 600px;
+  bottom: 30px;
+  height: 109.6px;
+  width: 196.31px;
+}
+.block-4 {
+  position: absolute;
+  top: 5220px;
+  left: 1050px;
+  height: 133.47px;
+  width: 517.79px;
+}
+.leading-provider-of {
+  height: 52px;
+  width: 331px;
+  color: #808184;
+  font-family: Lato;
+  font-size: 19px;
+  letter-spacing: 0.1px;
+  line-height: 26px;
+}
+.img-logo-cmgp {
+  position: absolute;
+  right: 550px;
+  bottom: 45px;
+  height: 133.47px;
+  width: 133.47px;
+}
+.block-5 {
+  position: absolute;
+  top: 5350px;
+  left: 1050px;
+  height: 116.68px;
+  width: 513.65px;
+}
+.develops-and-breeds {
+  height: 78px;
+  width: 341px;
+  color: #808184;
+  font-family: Lato;
+  font-size: 19px;
+  letter-spacing: 0.1px;
+  line-height: 26px;
+}
+.img-logo-hytech {
+  position: absolute;
+  right: 550px;
+  bottom: 15px;
+  
+  height: 116.68px;
+  width: 116.68px;
+}
+
+.sec-8-speak-to-local {
+  height: 309px;
+  width: 1681px;
+  background-color: #236AAA;
+  color: #ffffff;
+}
+.looking {
+  font-size: 17px;
+  text-align: center;
+  padding-top: 100px;
+}
+.look-2 {
+  padding-left: 660px;
+  padding-top: 30px;
+
+
+}
+.button {
+
+  background-color: #a2a3a7;
+  color: black;
+  border: 3px solid #ffffff;
+  padding: 25px 160px; 
+  padding-left: 200px;
+  color: #ffffff;
+  font-size: 15px;
+  }
+
+
+.sec-9-signatory-of-unpri {
+  height: 964px;
+  width: 1681px;
+}
+
+.grid-container-8 {
+  display: grid;
+  grid-template-columns: auto auto ;
+  grid-row-gap: 10px;
+  grid-column-gap: 5px;
+  
+  padding: 10px;
+}
+
+.grid-container-8 > div {
+  background-color: rgba(255, 255, 255, 0.8);
+  text-align: center;
+  padding: 20px 0;
+  font-size: 30px;
+}
+.img-1-signatory-of-unpri {
+  padding-left: 270px;
+  height: 380px;
+  width: 461px;
+}
+.header-signatory-of-unpri {
+  height: 37px;
+  width: 557px;
+  color: #1B3E6F;
+  font-family: Lato;
+  font-size: 37px;
+  letter-spacing: 0.5px;
+  line-height: 37px;
+}
+.body-the-principles-for-r {
+  padding-right: 290px;
+  height: 336px;
+  width: 619px;
+  color: #808184;
+  font-family: Lato;
+  font-size: 19px;
+  letter-spacing: 0.1px;
+  line-height: 28px;
+}
+.header-ifc-sustainability-f {
+  padding-left: 270px;
+  height: 37px;
+  width: 614px;
+  color: #1B3E6F;
+  font-family: Lato;
+  font-size: 37px;
+  letter-spacing: 0.5px;
+  line-height: 37px;
+  text-align: left;
+}
+.body-south-suez-requires {
+  padding-left: 270px;
+    padding-top: 50px;
+  height: 336px;
+  width: 620px;
+  color: #808184;
+  font-family: Lato;
+  font-size: 19px;
+  letter-spacing: 0.1px;
+  line-height: 28px;
+  text-align: right;
+}
+.imag-2-ifc-suatatinability-fra {
+  padding-left: 40px;
+  height: 380px;
+  width: 461px;
+}
+p.ex1 {
+  margin-top: 25px;
+}
+.img-logo-upri {
+  position: absolute;
+  top: 6020px;
+  left: 330px;
+  height: 73px;
+  width: 387.67px;
+  
+}
+.img-logo-ifc {
+  position: absolute;
+  left: 1000px;
+  top: 6460px;
+  height: 73.13px;
+  width: 390px;
+  
+}
+
+
+
+
